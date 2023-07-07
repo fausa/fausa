@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my final project to complete my MS in Applied Data Science at USD
 - 🌱 I’m currently learning how to create an end-to-end project that focuses on NLP for News curation
 - 🤔 I’m looking to always learn more
-- 💬 Ask me for unique or new ideas or solutions. 
+- 💬 Ask me for unique ideas or solutions. 
 - 📫 How to reach me: afaus@sandiego.edu
 - ⚡ Fun fact: I see the world through a different lens, which helps me problem solve when resources and time are limited.
 
