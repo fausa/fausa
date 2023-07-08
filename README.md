@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my final project to complete my MS in Applied Data Science at USD
+- 🔭 I’m currently working on my final capstone project to complete an MS in Applied Data Science at USD
 - 🌱 I’m currently learning how to create an end-to-end project that focuses on NLP for News curation
 - 🤔 I’m looking to always learn more
 - 💬 Ask me for unique ideas or solutions. 
