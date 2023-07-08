@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking to always learn more
 - 💬 Ask me for unique ideas or solutions. 
 - 📫 How to reach me: afaus@sandiego.edu
-- ⚡ Fun fact: I see the world through a different lens, which helps me problem solve when resources and time are limited.
+- ⚡ Fun fact: I see the world through a different lens, which makes me weird and awkward!
 
