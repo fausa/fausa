@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 More projects coming soon...
-- ✨ Just completed an MS in Applied Data Science at USD!!
+- ✨ Data Science and AI 
 - 🌱 Currently working with generative AI
 - 🤔 Developing tools to help with data
 - 📫 How to reach me: afaus@sandiego.edu
